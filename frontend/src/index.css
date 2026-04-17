@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-trade-bg text-slate-200 antialiased;
+  margin: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+}

@@ -1,0 +1,468 @@
+{
+  "scan_date": "2026-04-17 15:48",
+  "top_picks": [
+    {
+      "name": "Neuland Laboratories Ltd.",
+      "ticker": "NEULANDLAB.NS",
+      "sector": "Healthcare",
+      "probability": 0.8923,
+      "direction": "UP",
+      "last_price": 15295.0,
+      "horizon": "Very Short Term"
+    },
+    {
+      "name": "PTC Industries Ltd.",
+      "ticker": "PTCIL.NS",
+      "sector": "Capital Goods",
+      "probability": 0.891,
+      "direction": "UP",
+      "last_price": 15703.0,
+      "horizon": "Very Short Term"
+    },
+    {
+      "name": "Maruti Suzuki India Ltd.",
+      "ticker": "MARUTI.NS",
+      "sector": "Automobile and Auto Components",
+      "probability": 0.8876,
+      "direction": "UP",
+      "last_price": 13453.0,
+      "horizon": "Very Short Term"
+    },
+    {
+      "name": "Ola Electric Mobility Ltd.",
+      "ticker": "OLAELEC.NS",
+      "sector": "Automobile and Auto Components",
+      "probability": 0.8868,
+      "direction": "UP",
+      "last_price": 40.82,
+      "horizon": "Very Short Term"
+    },
+    {
+      "name": "ZF Commercial Vehicle Control Systems India Ltd.",
+      "ticker": "ZFCVINDIA.NS",
+      "sector": "Automobile and Auto Components",
+      "probability": 0.8847,
+      "direction": "UP",
+      "last_price": 14500.0,
+      "horizon": "Very Short Term"
+    },
+    {
+      "name": "Solar Industries India Ltd.",
+      "ticker": "SOLARINDS.NS",
+      "sector": "Chemicals",
+      "probability": 0.8844,
+      "direction": "UP",
+      "last_price": 15089.0,
+      "horizon": "Very Short Term"
+    },
+    {
+      "name": "Bajaj Holdings & Investment Ltd.",
+      "ticker": "BAJAJHLDNG.NS",
+      "sector": "Financial Services",
+      "probability": 0.8838,
+      "direction": "UP",
+      "last_price": 10355.5,
+      "horizon": "Very Short Term"
+    },
+    {
+      "name": "NTPC Green Energy Ltd.",
+      "ticker": "NTPCGREEN.NS",
+      "sector": "Power",
+      "probability": 0.8783,
+      "direction": "UP",
+      "last_price": 111.96,
+      "horizon": "Very Short Term"
+    },
+    {
+      "name": "UltraTech Cement Ltd.",
+      "ticker": "ULTRACEMCO.NS",
+      "sector": "Construction Materials",
+      "probability": 0.8779,
+      "direction": "UP",
+      "last_price": 11886.0,
+      "horizon": "Very Short Term"
+    },
+    {
+      "name": "Force Motors Ltd.",
+      "ticker": "FORCEMOT.NS",
+      "sector": "Automobile and Auto Components",
+      "probability": 0.8778,
+      "direction": "UP",
+      "last_price": 22378.0,
+      "horizon": "Very Short Term"
+    }
+  ],
+  "top_picks_by_horizon": {
+    "1d": [
+      {
+        "name": "Tata Consultancy Services Ltd.",
+        "ticker": "TCS.NS",
+        "sector": "Information Technology",
+        "probability": 0.6332,
+        "direction": "UP",
+        "last_price": 2581.5,
+        "horizon": "Day Trading"
+      },
+      {
+        "name": "Indus Towers Ltd.",
+        "ticker": "INDUSTOWER.NS",
+        "sector": "Telecommunication",
+        "probability": 0.6262,
+        "direction": "UP",
+        "last_price": 412.25,
+        "horizon": "Day Trading"
+      },
+      {
+        "name": "Aptus Value Housing Finance India Ltd.",
+        "ticker": "APTUS.NS",
+        "sector": "Financial Services",
+        "probability": 0.6261,
+        "direction": "UP",
+        "last_price": 246.37,
+        "horizon": "Day Trading"
+      },
+      {
+        "name": "Vodafone Idea Ltd.",
+        "ticker": "IDEA.NS",
+        "sector": "Telecommunication",
+        "probability": 0.61,
+        "direction": "UP",
+        "last_price": 9.61,
+        "horizon": "Day Trading"
+      },
+      {
+        "name": "ITC Ltd.",
+        "ticker": "ITC.NS",
+        "sector": "Fast Moving Consumer Goods",
+        "probability": 0.5911,
+        "direction": "UP",
+        "last_price": 306.8,
+        "horizon": "Day Trading"
+      },
+      {
+        "name": "IRB Infrastructure Developers Ltd.",
+        "ticker": "IRB.NS",
+        "sector": "Construction",
+        "probability": 0.5902,
+        "direction": "UP",
+        "last_price": 22.26,
+        "horizon": "Day Trading"
+      },
+      {
+        "name": "Varun Beverages Ltd.",
+        "ticker": "VBL.NS",
+        "sector": "Fast Moving Consumer Goods",
+        "probability": 0.5868,
+        "direction": "UP",
+        "last_price": 473.9,
+        "horizon": "Day Trading"
+      },
+      {
+        "name": "Bajaj Housing Finance Ltd.",
+        "ticker": "BAJAJHFL.NS",
+        "sector": "Financial Services",
+        "probability": 0.5768,
+        "direction": "UP",
+        "last_price": 91.8,
+        "horizon": "Day Trading"
+      },
+      {
+        "name": "NTPC Green Energy Ltd.",
+        "ticker": "NTPCGREEN.NS",
+        "sector": "Power",
+        "probability": 0.5677,
+        "direction": "UP",
+        "last_price": 111.96,
+        "horizon": "Day Trading"
+      },
+      {
+        "name": "Mangalore Refinery & Petrochemicals Ltd.",
+        "ticker": "MRPL.NS",
+        "sector": "Oil Gas & Consumable Fuels",
+        "probability": 0.5423,
+        "direction": "UP",
+        "last_price": 183.13,
+        "horizon": "Day Trading"
+      }
+    ],
+    "5d": [
+      {
+        "name": "Neuland Laboratories Ltd.",
+        "ticker": "NEULANDLAB.NS",
+        "sector": "Healthcare",
+        "probability": 0.8923,
+        "direction": "UP",
+        "last_price": 15295.0,
+        "horizon": "Very Short Term"
+      },
+      {
+        "name": "PTC Industries Ltd.",
+        "ticker": "PTCIL.NS",
+        "sector": "Capital Goods",
+        "probability": 0.891,
+        "direction": "UP",
+        "last_price": 15703.0,
+        "horizon": "Very Short Term"
+      },
+      {
+        "name": "Maruti Suzuki India Ltd.",
+        "ticker": "MARUTI.NS",
+        "sector": "Automobile and Auto Components",
+        "probability": 0.8876,
+        "direction": "UP",
+        "last_price": 13453.0,
+        "horizon": "Very Short Term"
+      },
+      {
+        "name": "Ola Electric Mobility Ltd.",
+        "ticker": "OLAELEC.NS",
+        "sector": "Automobile and Auto Components",
+        "probability": 0.8868,
+        "direction": "UP",
+        "last_price": 40.82,
+        "horizon": "Very Short Term"
+      },
+      {
+        "name": "ZF Commercial Vehicle Control Systems India Ltd.",
+        "ticker": "ZFCVINDIA.NS",
+        "sector": "Automobile and Auto Components",
+        "probability": 0.8847,
+        "direction": "UP",
+        "last_price": 14500.0,
+        "horizon": "Very Short Term"
+      },
+      {
+        "name": "Solar Industries India Ltd.",
+        "ticker": "SOLARINDS.NS",
+        "sector": "Chemicals",
+        "probability": 0.8844,
+        "direction": "UP",
+        "last_price": 15089.0,
+        "horizon": "Very Short Term"
+      },
+      {
+        "name": "Bajaj Holdings & Investment Ltd.",
+        "ticker": "BAJAJHLDNG.NS",
+        "sector": "Financial Services",
+        "probability": 0.8838,
+        "direction": "UP",
+        "last_price": 10355.5,
+        "horizon": "Very Short Term"
+      },
+      {
+        "name": "NTPC Green Energy Ltd.",
+        "ticker": "NTPCGREEN.NS",
+        "sector": "Power",
+        "probability": 0.8783,
+        "direction": "UP",
+        "last_price": 111.96,
+        "horizon": "Very Short Term"
+      },
+      {
+        "name": "UltraTech Cement Ltd.",
+        "ticker": "ULTRACEMCO.NS",
+        "sector": "Construction Materials",
+        "probability": 0.8779,
+        "direction": "UP",
+        "last_price": 11886.0,
+        "horizon": "Very Short Term"
+      },
+      {
+        "name": "Force Motors Ltd.",
+        "ticker": "FORCEMOT.NS",
+        "sector": "Automobile and Auto Components",
+        "probability": 0.8778,
+        "direction": "UP",
+        "last_price": 22378.0,
+        "horizon": "Very Short Term"
+      }
+    ],
+    "60d": [
+      {
+        "name": "Garden Reach Shipbuilders & Engineers Ltd.",
+        "ticker": "GRSE.NS",
+        "sector": "Capital Goods",
+        "probability": 0.7254,
+        "direction": "UP",
+        "last_price": 2712.0,
+        "horizon": "Short Term"
+      },
+      {
+        "name": "GMR Airports Ltd.",
+        "ticker": "GMRAIRPORT.NS",
+        "sector": "Services",
+        "probability": 0.7133,
+        "direction": "UP",
+        "last_price": 96.85,
+        "horizon": "Short Term"
+      },
+      {
+        "name": "Jaiprakash Power Ventures Ltd.",
+        "ticker": "JPPOWER.NS",
+        "sector": "Power",
+        "probability": 0.711,
+        "direction": "UP",
+        "last_price": 19.2,
+        "horizon": "Short Term"
+      },
+      {
+        "name": "IFCI Ltd.",
+        "ticker": "IFCI.NS",
+        "sector": "Financial Services",
+        "probability": 0.699,
+        "direction": "UP",
+        "last_price": 61.19,
+        "horizon": "Short Term"
+      },
+      {
+        "name": "RBL Bank Ltd.",
+        "ticker": "RBLBANK.NS",
+        "sector": "Financial Services",
+        "probability": 0.6912,
+        "direction": "UP",
+        "last_price": 315.55,
+        "horizon": "Short Term"
+      },
+      {
+        "name": "L&T Finance Ltd.",
+        "ticker": "LTF.NS",
+        "sector": "Financial Services",
+        "probability": 0.6908,
+        "direction": "UP",
+        "last_price": 287.14,
+        "horizon": "Short Term"
+      },
+      {
+        "name": "Anant Raj Ltd.",
+        "ticker": "ANANTRAJ.NS",
+        "sector": "Realty",
+        "probability": 0.6905,
+        "direction": "UP",
+        "last_price": 513.4,
+        "horizon": "Short Term"
+      },
+      {
+        "name": "Vedanta Ltd.",
+        "ticker": "VEDL.NS",
+        "sector": "Metals & Mining",
+        "probability": 0.6902,
+        "direction": "UP",
+        "last_price": 787.5,
+        "horizon": "Short Term"
+      },
+      {
+        "name": "Railtel Corporation Of India Ltd.",
+        "ticker": "RAILTEL.NS",
+        "sector": "Telecommunication",
+        "probability": 0.6885,
+        "direction": "UP",
+        "last_price": 335.29,
+        "horizon": "Short Term"
+      },
+      {
+        "name": "Bandhan Bank Ltd.",
+        "ticker": "BANDHANBNK.NS",
+        "sector": "Financial Services",
+        "probability": 0.6877,
+        "direction": "UP",
+        "last_price": 174.47,
+        "horizon": "Short Term"
+      }
+    ],
+    "365d": [
+      {
+        "name": "360 ONE WAM Ltd.",
+        "ticker": "360ONE.NS",
+        "sector": "Financial Services",
+        "probability": 0.5,
+        "direction": "NEUTRAL",
+        "last_price": 1113.3,
+        "horizon": "Long Term"
+      },
+      {
+        "name": "3M India Ltd.",
+        "ticker": "3MINDIA.NS",
+        "sector": "Diversified",
+        "probability": 0.5,
+        "direction": "NEUTRAL",
+        "last_price": 31410.0,
+        "horizon": "Long Term"
+      },
+      {
+        "name": "ABB India Ltd.",
+        "ticker": "ABB.NS",
+        "sector": "Capital Goods",
+        "probability": 0.5,
+        "direction": "NEUTRAL",
+        "last_price": 7012.0,
+        "horizon": "Long Term"
+      },
+      {
+        "name": "ACC Ltd.",
+        "ticker": "ACC.NS",
+        "sector": "Construction Materials",
+        "probability": 0.5,
+        "direction": "NEUTRAL",
+        "last_price": 1432.2,
+        "horizon": "Long Term"
+      },
+      {
+        "name": "ACME Solar Holdings Ltd.",
+        "ticker": "ACMESOLAR.NS",
+        "sector": "Power",
+        "probability": 0.5,
+        "direction": "NEUTRAL",
+        "last_price": 304.65,
+        "horizon": "Long Term"
+      },
+      {
+        "name": "AIA Engineering Ltd.",
+        "ticker": "AIAENG.NS",
+        "sector": "Capital Goods",
+        "probability": 0.5,
+        "direction": "NEUTRAL",
+        "last_price": 3961.5,
+        "horizon": "Long Term"
+      },
+      {
+        "name": "APL Apollo Tubes Ltd.",
+        "ticker": "APLAPOLLO.NS",
+        "sector": "Capital Goods",
+        "probability": 0.5,
+        "direction": "NEUTRAL",
+        "last_price": 2105.7,
+        "horizon": "Long Term"
+      },
+      {
+        "name": "AU Small Finance Bank Ltd.",
+        "ticker": "AUBANK.NS",
+        "sector": "Financial Services",
+        "probability": 0.5,
+        "direction": "NEUTRAL",
+        "last_price": 990.6,
+        "horizon": "Long Term"
+      },
+      {
+        "name": "AWL Agri Business Ltd.",
+        "ticker": "AWL.NS",
+        "sector": "Fast Moving Consumer Goods",
+        "probability": 0.5,
+        "direction": "NEUTRAL",
+        "last_price": 185.01,
+        "horizon": "Long Term"
+      },
+      {
+        "name": "Aadhar Housing Finance Ltd.",
+        "ticker": "AADHARHFC.NS",
+        "sector": "Financial Services",
+        "probability": 0.5,
+        "direction": "NEUTRAL",
+        "last_price": 496.45,
+        "horizon": "Long Term"
+      }
+    ]
+  },
+  "total_scanned": 476,
+  "total_failed": 24,
+  "total_results": 1904
+}
